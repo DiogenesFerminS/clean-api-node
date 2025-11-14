@@ -1,6 +1,6 @@
 ## API REST NODE + TYPESCRIPT
 
-### Reconstruir los modulos de no
+### Reconstruir los modulos de node
 
 ```
 npm install
