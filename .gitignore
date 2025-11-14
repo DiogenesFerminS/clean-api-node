@@ -1,0 +1,6 @@
+.env
+node_modules/
+keys/
+postgres/
+/src/generated/prisma
+/src/generated/prisma
